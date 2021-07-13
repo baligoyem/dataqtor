@@ -7,10 +7,28 @@
 </p>
 
 <p align="center">
-    <a href="https://twitter.com/baligoyem"><img src="https://img.shields.io/twitter/follow/baligoyem?style=social"></a>
-    <!-- <a href="https://gitter.im/jrieke/traingenerator"><img src="https://badges.gitter.im/jrieke/traingenerator.svg" alt="Gitter"></a-->
+    <a href="https://www.youtube.com/embed/videoseries?list=PLQ04AOSABpu9wm7oosXX2pi7Js4RxSm0D"><img src="https://img.shields.io/youtube/views/JLkJ_jFxG3g?style=social" alt="Tutorial"></a>
     <!-- <a href="https://share.streamlit.io/yourGitHubName/yourRepo/yourApp/"><img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" alt="Open in Streamlit"></a-->
-    <a href="https://www.buymeacoffee.com/baligoyem"><img src="https://img.shields.io/badge/Buy%20me%20a-coffee-orange.svg?logo=buy-me-a-coffee&logoColor=orange"></a>
-    <!-- <a href="LICENSE"><img src="https://img.shields.io/github/license/jrieke/traingenerator.svg"></a> -->
-    <!-- <a href="https://github.com/psf/black"><img src="https://img.shields.io/badge/code%20style-black-000000.svg" alt="Code style: black"></a-->
-</p>
+    <a href="mailto:beytullahali.goyem@gmail.com"><img src="https://img.shields.io/badge/-beytullahali.goyem@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:beytullahali.goyem@gmail.com"></a>
+    
+ <br><br>
+    Try it out: <br>
+    <a href="websitesi">websitesi</a>
+</h3>
+
+<br>
+
+Get your data ready for use before you start working with it:
+
+Upload your Excel/CSV file 📁
+Gain insight into your data 💡
+Measure the quality of your data 📊
+Repair your data in light of analyzes 🛠
+Observe improvement in data quality 📈
+Download the dataset you repaired 📥
+
+<br>
+
+*If you have any questions or comments, [contact me on LinkedIn](https://tr.linkedin.com/in/beytullah-ali-g%C3%B6yem-461749152), and if you find this tool useful, please [consider buying me a coffee](https://www.buymeacoffee.com/baligoyem) ☺*
+
+<br>
