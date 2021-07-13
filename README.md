@@ -7,17 +7,14 @@
 </p>
 
 <p align="center">
-    <a href="https://www.youtube.com/embed/videoseries?list=PLQ04AOSABpu9wm7oosXX2pi7Js4RxSm0D"><img src="https://img.shields.io/youtube/views/JLkJ_jFxG3g?style=social" alt="Tutorial"></a>
     <!-- <a href="https://share.streamlit.io/yourGitHubName/yourRepo/yourApp/"><img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" alt="Open in Streamlit"></a-->
     <a href="mailto:beytullahali.goyem@gmail.com"><img src="https://img.shields.io/badge/-beytullahali.goyem@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:beytullahali.goyem@gmail.com"></a>
- 
- <h3 align="center">
- <br><br>
-    Try it out: <br>
-    <a href="websitesi">websitesi</a>
-</h3>
+</p>
 
-<br>
+<p align="center">
+    <br>
+    <img src="https://github.com/baligoyem/dataqtor/blob/main/DataQtor.png" width="400"/>
+    <br>
 
 ## Get your data ready for use before you start working with it:
 
@@ -27,6 +24,11 @@
 4. Repair your data in light of analyzes 🛠
 5. Observe improvement in data quality 📈
 6. Download the dataset you repaired 📥
+    
+<h3 align="center">
+    Try it out: <br>
+    <a href="websitesi">coming soon</a>
+</h3>
 
 <br>
 
