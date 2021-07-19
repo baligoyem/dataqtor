@@ -2052,7 +2052,7 @@ else:
     st.info('Awaiting for file to be uploaded.')
     st.write("")
     st.write("Interested in advertising here on this website? Please contact me at &nbsp[![mailto](https://img.shields.io/badge/-beytullahali.goyem@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:beytullahali.goyem@gmail.com)](mailto:beytullahali.goyem@gmail.com)")
-    st.image('yourAdHere.png', width=750)
+    st.image('yourAdHere.PNG', width=750)
     st.write("")
     """
     **Get your data ready for use before you start working with it:**
