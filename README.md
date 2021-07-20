@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-    <!-- <a href="https://share.streamlit.io/yourGitHubName/yourRepo/yourApp/"><img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" alt="Open in Streamlit"></a-->
+    <a href="https://share.streamlit.io/baligoyem/dataqtor/main/home.py"><img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" alt="Open in Streamlit"></a>
     <a href="mailto:beytullahali.goyem@gmail.com"><img src="https://img.shields.io/badge/-beytullahali.goyem@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:beytullahali.goyem@gmail.com"></a>
 </p>
 
@@ -24,10 +24,21 @@
 4. Repair your data in light of analyzes 🛠
 5. Observe improvement in data quality 📈
 6. Download the dataset you repaired 📥
+
     
+<br>
+
+<div align="center">
+      <a href="https://youtu.be/ijXcs1r-_Z8">
+         <img src="https://img.youtube.com/vi/ijXcs1r-_Z8/0.jpg" style="width:100%;">
+      </a>
+</div>
+
+<br>
+
 <h3 align="center">
     Try it out: <br>
-    <a href="websitesi">coming soon</a>
+    <a href="https://share.streamlit.io/baligoyem/dataqtor/main/home.py">https://share.streamlit.io/baligoyem/dataqtor/main/home.py</a>
 </h3>
 
 <br>
