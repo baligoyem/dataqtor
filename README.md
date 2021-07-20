@@ -25,19 +25,10 @@
 5. Observe improvement in data quality 📈
 6. Download the dataset you repaired 📥
 
-    
-<br>
-
-<div align="center">
-      <a href="https://youtu.be/ijXcs1r-_Z8">
-         <img src="https://img.youtube.com/vi/ijXcs1r-_Z8/0.jpg" style="width:100%;">
-      </a>
-</div>
-
-<br>
+https://user-images.githubusercontent.com/61024126/126400387-7f1ba695-f561-457b-8cc7-90a1373c1cf0.mp4
 
 <h3 align="center">
-    Try it out: <br>
+    Try it now: <br>
     <a href="https://share.streamlit.io/baligoyem/dataqtor/main/home.py">https://share.streamlit.io/baligoyem/dataqtor/main/home.py</a>
 </h3>
 
