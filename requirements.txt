@@ -9,3 +9,4 @@ string_grouper==0.4.0
 pandas_profiling==3.0.0
 python_dateutil==2.8.1
 xlrd==1.2.0
+xlsxwriter==1.4.3
