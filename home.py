@@ -577,14 +577,14 @@ if uploaded_file is not None:
                          notuseful)
 
             if label == "Şehir (TR)":
-                sehirler = ["Adana", "Adıyaman", "Afyonkarahisar", "Ağrı", "Amasya", "Ankara", "Antalya",
+                sehirler = ["Adana", "Adıyaman", "Afyon", "Ağrı", "Amasya", "Ankara", "Antalya",
                             "Artvin", "Aydın",
                             "Balıkesir", "Bilecik", "Bingöl", "Bitlis", "Bolu", "Burdur", "Bursa", "Çanakkale",
                             "Çankırı",
                             "Çorum", "Denizli", "Diyarbakır", "Edirne", "Elazığ", "Erzincan", "Erzurum",
                             "Eskişehir",
-                            "Gaziantep", "Giresun", "Gümüşhane", "Hakkari", "Hatay", "Isparta", "Mersin",
-                            "İstanbul",
+                            "Gaziantep", "Giresun", "Gümüşhane", "Hakkari", "Hatay", "Isparta", "İçel",
+                            "İstanbul", "İstanbul-Avrupa", "İstanbul-Anadolu",
                             "İzmir", "Kars", "Kastamonu", "Kayseri", "Kırklareli", "Kırşehir", "Kocaeli",
                             "Konya",
                             "Kütahya", "Malatya", "Manisa", "Kahramanmaraş", "Mardin", "Muğla", "Muş",
@@ -1720,7 +1720,7 @@ if uploaded_file is not None:
                         city_latitude_dict = {}
                         city_latitude_dict['Adana'] = 37.00167
                         city_latitude_dict['Adıyaman'] = 37.76441
-                        city_latitude_dict['Afyonkarahisar'] = 38.75667
+                        city_latitude_dict['Afyon'] = 38.75667
                         city_latitude_dict['Ağrı'] = 39.71944
                         city_latitude_dict['Amasya'] = 40.65333
                         city_latitude_dict['Ankara'] = 39.91987
@@ -1750,7 +1750,7 @@ if uploaded_file is not None:
                         city_latitude_dict['Hakkari'] = 37.57444
                         city_latitude_dict['Hatay'] = 36.200001
                         city_latitude_dict['Isparta'] = 37.762649
-                        city_latitude_dict['Mersin'] = 36.812104
+                        city_latitude_dict['İçel'] = 36.812104
                         city_latitude_dict['İstanbul'] = 41.01384
                         city_latitude_dict['İzmir'] = 38.41273
                         city_latitude_dict['Kars'] = 40.60199
@@ -1806,7 +1806,7 @@ if uploaded_file is not None:
                         city_longitude_dict = {}
                         city_longitude_dict['Adana'] = 35.32889
                         city_longitude_dict['Adıyaman'] = 38.27629
-                        city_longitude_dict['Afyonkarahisar'] = 30.54333
+                        city_longitude_dict['Afyon'] = 30.54333
                         city_longitude_dict['Ağrı'] = 43.05139
                         city_longitude_dict['Amasya'] = 35.83306
                         city_longitude_dict['Ankara'] = 32.85427
@@ -1836,7 +1836,7 @@ if uploaded_file is not None:
                         city_longitude_dict['Hakkari'] = 43.74083
                         city_longitude_dict['Hatay'] = 36.166668
                         city_longitude_dict['Isparta'] = 30.553705
-                        city_longitude_dict['Mersin'] = 34.641481
+                        city_longitude_dict['İçel'] = 34.641481
                         city_longitude_dict['İstanbul'] = 28.94966
                         city_longitude_dict['İzmir'] = 27.13838
                         city_longitude_dict['Kars'] = 43.09495
