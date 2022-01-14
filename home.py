@@ -71,7 +71,7 @@ st.sidebar.subheader("")
 st.sidebar.write("&nbsp[![Buy me a coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/baligoyem)&nbsp[![Connect](https://img.shields.io/badge/Beytullah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://tr.linkedin.com/in/beytullah-ali-g%C3%B6yem-461749152)](https://tr.linkedin.com/in/beytullah-ali-g%C3%B6yem-461749152)")
 st.sidebar.subheader("")
 if st.sidebar.button("Clear Cache"):
-	caching.clear_cache()
+	caching.clear_memo_cache()
 	st.sidebar.success("Cache is cleared!")
 if uploaded_file is not None:
     before = beforeSTable()
