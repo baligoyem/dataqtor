@@ -4,7 +4,7 @@ streamlit_pandas_profiling==0.1.3
 streamlit==1.12.2
 bokeh==2.3.2
 matplotlib==3.3.4
-pandas==1.4.3
+pandas==1.2.4
 string_grouper==0.4.0
 pandas_profiling==3.2.0
 python_dateutil==2.8.1
